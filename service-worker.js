@@ -12,7 +12,7 @@ if (location.port != 5173) {
                 "/index.html",
                 "/assets/index-8HvtRm0o.js",
                 "/assets/index-DnbXvAQW.css",
-                "/logo.png",
+                "/logo.jpg",
                 "/manifest.json",
                 "/service-worker.js"
             ]),
